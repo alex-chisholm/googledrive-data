@@ -1,0 +1,6 @@
+pydrive 
+pandas 
+google-auth 
+google-auth-oauthlib
+python-dotenv
+duckdb
